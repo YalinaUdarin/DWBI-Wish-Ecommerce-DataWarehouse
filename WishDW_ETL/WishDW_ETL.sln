@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "WishDW_ETL", "WishDW_ETL\WishDW_ETL.dtproj", "{8FF1BB5E-9214-13F4-40CA-A63BE7B7ABAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF1BB5E-9214-13F4-40CA-A63BE7B7ABAD}.Development|Default.ActiveCfg = Development
+		{8FF1BB5E-9214-13F4-40CA-A63BE7B7ABAD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9F67AE-93F5-4218-B676-618F45E0F2A8}
+	EndGlobalSection
+EndGlobal
